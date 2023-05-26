@@ -65,8 +65,10 @@
       "id": "version-history",
       "title": "Version History",
       "environments": [ "edit" ],
-      "url": "http://localhost:3000/tools/version-history/index.html?project=milo--adobecom",
+      "url": "http://localhost:3000/tools/version-history/index-pallete.html?project=milo--adobecom",
+      "isPalette": true,
       "passReferrer": true,
+      "paletteRect": "top: 50%; left: 50%; height: 80vw; width: 80vw; transform: translate(-50%, -50%);"
       "includePaths": [ "**.docx**" ]
     }
   ]
